@@ -1,4 +1,6 @@
-**🎓 ESKIMO – Student Risk Dashboard**
+<img width="959" height="482" alt="image" src="https://github.com/user-attachments/assets/f0f9ed5b-58ee-469a-a0fc-d3a7f8b5519d" />
+
+**🎓 EduRiskAI – Student Risk Dashboard**
 
 🚨 AI Early Warning System to Prevent School Dropouts
 
